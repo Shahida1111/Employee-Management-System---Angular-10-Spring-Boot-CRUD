@@ -4,7 +4,7 @@ A responsive web development and content management platform built with HTML5, S
 
 ## Requirements
 
-**1. efore running the project, install:**
+**1. before running the project, install:**
 
 - Node.js 16+
 - NPM 8+
