@@ -281,7 +281,7 @@ Employee endpoints can also be tested through Postman before integrating them wi
 
 **Shahida Ibrahim**
 
-Software Engineer | Angular Developer
+Software Engineer | Angular | Spring Boot 
 
-GitHub: [Your GitHub Profile](https://github.com/your-username)
+
 
